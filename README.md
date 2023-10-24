@@ -132,6 +132,26 @@ https://sitsastr.qvixsolutions.com/stsa_tychd/index.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2001 TyC SPORT PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2002 TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2003 TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2004 TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2005 TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2006 TyC SPORT PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2007 TyC SPORT PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2008 TyC SPORT PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2009 TyC SPORT PLAY 9
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:0 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS TYC SPORTS PLAY",2010 TyC SPORT PLAY 10
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 
 
 
